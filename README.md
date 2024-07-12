@@ -24,4 +24,5 @@ Spar-omsk - a team of experienced developers specializing in creating innovative
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="36" height="36" alt="React"/></a>
 <a href="https://dotnet.microsoft.com/ru-ru/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="Dot-Net" alt="dot-net" width="36" height="36" alt="dot-net"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="36" height="36"/>
 </p>
