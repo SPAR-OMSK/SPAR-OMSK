@@ -6,8 +6,10 @@ Transform the world with innovation.
 
 Spar-omsk - a team of experienced developers specializing in creating innovative mobile and desktop applications. We craft high-quality solutions using modern technologies.
 
-* 🌍  Based in Omsk
+* 🌍 Based in Omsk
 * 🤝 We are open to collaborating on interesting projects
+* 🎓 Our team is constantly learning and growing to stay up-to-date with the latest trends in development.
+* 💻 We are passionate about creating products with user-friendly interfaces and functionality that enhance people's lives. We aim to develop applications that simplify life, improve productivity, and enhance the quality of life.
 
 ### Skills
 
